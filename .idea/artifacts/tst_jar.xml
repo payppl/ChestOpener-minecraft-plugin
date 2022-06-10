@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tst:jar">
+    <output-path>$PROJECT_DIR$/../../../../../projekty intelli</output-path>
+    <root id="archive" name="tst.jar">
+      <element id="module-output" name="tst" />
+      <element id="file-copy" path="$PROJECT_DIR$/../tst/plugin.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/../tst/config.yml" />
+    </root>
+  </artifact>
+</component>

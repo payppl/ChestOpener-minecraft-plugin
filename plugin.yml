@@ -1,0 +1,14 @@
+name: CaseOPENER
+version: 1.0
+main: CaseOpener.Main
+author: Paypl
+description: Case opener
+api-version: 1.16
+commands:
+  case:
+   description: Give the player cases or keys
+   permission: CO.case.command
+  casereload:
+   description: reload config
+   permission: CO.reload
+   usage: </command>

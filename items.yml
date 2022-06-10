@@ -1,0 +1,56 @@
+DROPS:
+  Tier 1:
+    Cobble:
+      name: '&7Cobblestone'
+      id: 'stone:0'
+      amount: 64
+      chance: 25
+      usingench: false
+    COAL:
+      name: '&1Coal'
+      id: 'coal:0'
+      amount: 64
+      chance: 15
+      usingench: false
+    String:
+      name: '&1String'
+      id: 'string:0'
+      amount: 64
+      chance: 16
+      usingench: false
+    REDDYE:
+      name: '&1Red Dye'
+      id: '351:1'
+      amount: 32
+      chance: 10
+      usingench: false
+    IRONORE:
+      name: '&1Iron'
+      id: 'iron_ingot:0'
+      amount: 20
+      chance: 10
+      usingench: false
+    LEATHERLEGG:
+      name: '&dLeather Leggings'
+      id: 'leather_leggings:0'
+      amount: 1
+      chance: 9
+      usingench: true
+      ench:
+        PROTECTION_ENVIRONMENTAL: 1
+        DURABILITY: 1
+    CHAINMAILCHEST:
+      name: '&4Chainmail Chestplate'
+      id: 'chainmail_chestplate:0'
+      amount: 1
+      chance: 5
+      usingench: true
+      ench:
+        PROTECTION_ENVIRONMENTAL: 1
+        DURABILITY: 1
+    DIAMONDS:
+      name: '&6Diamond'
+      id: 'diamond:0'
+      amount: 1
+      chance: 1
+      usingench: false

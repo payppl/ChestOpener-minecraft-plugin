@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Minions:jar">
+    <output-path>$PROJECT_DIR$/../../../../../projekty intelli</output-path>
+    <root id="archive" name="Minions.jar">
+      <element id="module-output" name="Minions" />
+      <element id="file-copy" path="$PROJECT_DIR$/../Minions/plugin.yml" />
+    </root>
+  </artifact>
+</component>

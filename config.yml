@@ -1,0 +1,35 @@
+WON_TEXT: "&6&l[ CASE DROP &6&l] &7&l» YOU HAVE WON: "
+OPEN_CASE: "&5Open case"
+CLOSE_CASE: "&5Close case"
+DROPED_FROM: "&2droped from : "
+WARNING_CLOSE_CASE: "&c&lBecause case was closed you do not get item"
+WARNING_DO_NOT_HAVE_KEYS: "&c&lyou dont have keys to open this chest"
+WARNING_NO_CASE_CONTENT: "&7&c[CASE&7&c]&4This chest do not have any items in in -> please write to administrator"
+PERMISSION_ADMIN_CASE: CO.case
+PERMISSION_ADMIN_KEY: CO.key
+PRECASE_GLASS_COLOR_TOP: YELLOW_STAINED_GLASS_PANE
+PRECASE_GLASS_COLOR_CONTENT: BLACK_STAINED_GLASS_PANE
+PRECASE_GLASS_COLOR_BOTTOM: YELLOW_STAINED_GLASS_PANE
+CASE_GLASS_COLOR: GREEN_STAINED_GLASS_PANE
+CASE_GLASS_COLOR_CENTER: ORANGE_STAINED_GLASS_PANE
+Names:
+  Tier 1 Case:
+    Name: '&1Common Case'
+  Tier 2 Case:
+    Name: '&5Uncommon Case'
+  Tier 3 Case:
+    Name: '&dNormal Case'
+  Tier 4 Case:
+    Name: '&4Rare Case'
+  Tier 5 Case:
+    Name: '&6Premium Case'
+  Tier 1 key:
+    Name: '&1Common Case key'
+  Tier 2 key:
+    Name: '&5Uncommon Case key'
+  Tier 3 key:
+    Name: '&dNormal Case key'
+  Tier 4 key:
+    Name: '&4Rare Case key'
+  Tier 5 key:
+    Name: '&6Premium Case key'

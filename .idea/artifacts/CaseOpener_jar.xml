@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CaseOpener:jar">
+    <output-path>$PROJECT_DIR$/../../../../../projekty intelli</output-path>
+    <root id="archive" name="CaseOpener.jar">
+      <element id="module-output" name="CaseOpener" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/items.yml" />
+    </root>
+  </artifact>
+</component>
